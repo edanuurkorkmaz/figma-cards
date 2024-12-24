@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #19A1AE;
+}
+.container{
+    border-radius: 16px;
+    background-color: #ffffff;
+    width: 350px;
+    height: 374px;
+    margin-inline: auto;
+    margin-block: 173px;
+}
+.profile-img{
+    /* margin-left: 127px; */
+    vertical-align: middle;
+    margin-bottom: 186px;
+    display: flex;
+    justify-content: center;
+    vertical-align: middle;
+}
+.banner-background{
+    z-index: -1;
+}

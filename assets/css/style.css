@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(183, 183, 220);
+}
+.container{
+    width: 384px;
+    margin-inline: auto;
+    margin-block: 170px;
+    background-color: white;
+    border-radius: 16px;
+}
+.container li{
+    list-style: none;
+    padding: 36px;
+    margin-left: 35px;
+}
+.container a{
+    background-color: white;
+    border-radius: 16px;
+    padding: 16px;
+    border: 1px solid white;
+    text-decoration: none;
+    color: #131395;
+    font-size: 18px;
+}
